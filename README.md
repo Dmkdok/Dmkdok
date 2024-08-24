@@ -43,7 +43,7 @@
 
 - 📧 Email: [dmkdok@yandex.ru](dmkdok@yandex.ru)
 - 💼 LinkedIn: [Ваш профиль](https://www.linkedin.com/in/yourprofile/)
-- 🌍 Личный сайт: [Мой блог](t.me/dmkdok_blog)
+- 🌍 Личный сайт: [Мой блог](https://t.me/dmkdok_blog)
 
 ## 🎯 Цели на 2024 год
 
