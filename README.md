@@ -1,6 +1,6 @@
 # Привет! Я Дмитрий Богданов 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=dmkdok&color=green)
 
 ## 🧑‍💻 Обо мне
 
@@ -26,8 +26,8 @@
 ## 📈 GitHub Статистика
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmkdok&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmkdok&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 ## 💡 Проекты
@@ -53,7 +53,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dmkdok&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 <!--
