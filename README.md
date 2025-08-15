@@ -107,7 +107,6 @@
 
 - 📧 **Email**: [dmkdok@yandex.ru](mailto:dmkdok@yandex.ru)
 - 💬 **Telegram**: [@Dmkdok](https://t.me/Dmkdok)
-- 🌍 **Блог**: [Мой Telegram-канал](https://t.me/dmkdok_blog)
 
 ## 🎯 Цели на 2025 год
 
