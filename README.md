@@ -98,7 +98,8 @@
 
 ## 📈 Активность
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmkdok)](https://github.com/dmkdok/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmkdok&show_icons=true&theme=radical&locale=ru&hide_title=false&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmkdok&layout=compact&theme=radical&locale=ru&hide=jupyter%20notebook,html,css)
 
 ## 🌐 Контакты
 
