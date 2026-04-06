@@ -108,7 +108,7 @@
 - 📧 **Email**: [dmkdok@yandex.ru](mailto:dmkdok@yandex.ru)
 - 💬 **Telegram**: [@Dmkdok](https://t.me/Dmkdok)
 
-## 🎯 Цели на 2025 год
+## 🎯 Цели на 2026 год
 
 - Разработать pet-проект на FastAPI для автоматического планирования раскладки продуктов в походах, с интеграцией PostgreSQL и CI/CD.
 - Внести вклад в Open Source проекты, улучшая код или документацию в популярных Python-репозиториях.
