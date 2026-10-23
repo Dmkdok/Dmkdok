@@ -12,7 +12,7 @@ Python-разработчик: backend на Django и FastAPI, довожу пр
 - 🚀 **Интересы**: backend-разработка, сетевые технологии, автоматизация, DevOps
 - 🏔️ **Fun fact**: в свободное время хожу в горы, участвую в многодневных мультигонках и рогейнах, фотографирую природу
 
-## 💡 Проекты
+## 🚀 Избранные проекты
 
 ### 🧭 [rogaine-planner](https://github.com/Dmkdok/rogaine-planner) — планировщик маршрута рогейна
 
@@ -40,7 +40,7 @@ Python-разработчик: backend на Django и FastAPI, довожу пр
 - **[tg-digest](https://github.com/Dmkdok/tg-digest)** — дайджест Telegram-каналов и чатов от личного аккаунта (Telethon): сообщения за сутки, map-reduce-суммаризация через LLM, доставка в Telegram.
 - **[product-factory](https://github.com/Dmkdok/product-factory)** — набор скилов и субагентов для Claude Code: пайплайн от идеи до протестированной сдачи.
 
-## 💡 Другие проекты
+## 🗂 Другие проекты
 
 Бэкенд разных лет: REST API, сервисы на Django и FastAPI, парсеры и боты.
 
