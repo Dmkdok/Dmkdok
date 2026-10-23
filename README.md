@@ -44,26 +44,15 @@ Python-разработчик: backend на Django и FastAPI, довожу пр
 
 Бэкенд разных лет: REST API, сервисы на Django и FastAPI, парсеры и боты.
 
-### Django и DRF
 - **[YaMDb API](https://github.com/Dmkdok/api_yamdb)** — отзывы и рейтинги произведений: JWT, категории, жанры, комментарии; командная работа.
-- **[Blogicum](https://github.com/Dmkdok/django_sprint4)** — блог: категории, комментарии, отложенные публикации.
-- **[Yatube API](https://github.com/Dmkdok/api_final_yatube)** — REST API блог-платформы: DRF, SimpleJWT, Djoser.
-- **[Food API](https://github.com/Dmkdok/Test_Djanfo_API)** — выдача категорий меню и опубликованных блюд.
-- **[Taski](https://github.com/Dmkdok/taski)** и **[Taski в Docker](https://github.com/Dmkdok/taski-docker)** — планировщик задач и его контейнерная сборка.
-- **[Vice Versa](https://github.com/Dmkdok/django_testing)** — два Django-приложения с покрытием тестами: pytest, unittest.
-
-### FastAPI и Flask
+- **[Blogicum](https://github.com/Dmkdok/django_sprint4)** — блог на Django: категории, комментарии, отложенные публикации.
 - **[QRKot](https://github.com/Dmkdok/QRkot_spreadsheets)** — благотворительный фонд: целевые проекты, пожертвования с FIFO-распределением, отчёт в Google Sheets; FastAPI, async SQLAlchemy, Alembic.
-- **[Менеджер задач](https://github.com/Dmkdok/test_tasks)** — CRUD API с фильтрацией и пагинацией: FastAPI, SQLAlchemy, Alembic.
 - **[YaCut](https://github.com/Dmkdok/yacut)** — короткие ссылки с веб-формой и REST API: Flask, SQLAlchemy, Alembic, OpenAPI.
 - **[Раскладка](https://github.com/Dmkdok/meal-planner)** — планирование питания в походах: дни и приёмы пищи, расчёт веса, экспорт в Excel; Flask, PostgreSQL.
-
-### Парсеры и боты
 - **[Парсер PEP на Scrapy](https://github.com/Dmkdok/scrapy_parser_pep)** и **[на BeautifulSoup](https://github.com/Dmkdok/bs4_parser_pep)** — номера, названия и статусы PEP в CSV.
 - **[Telegram-бот статуса домашних работ](https://github.com/Dmkdok/homework_bot)** — опрос API каждые 10 минут, уведомления и логирование.
-- **[The Snake](https://github.com/Dmkdok/the_snake)** — змейка на Pygame; **[Анфиса для друзей](https://github.com/Dmkdok/anfisa1sprint)** — сайт-визитка на Django.
 
-Часть ранних репозиториев — в архиве: код и история сохранены, развитие не ведётся.
+Ранние работы (Taski, Taski в Docker, Yatube API, Vice Versa, Food API, The Snake, Анфиса) — в архиве: код сохранён, развитие не ведётся.
 
 ## 🔧 Технологии и инструменты
 
