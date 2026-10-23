@@ -1,17 +1,59 @@
-
 # Привет! Я Дмитрий Богданов 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=dmkdok&color=green)
 
 ## 🧑‍💻 Обо мне
 
-Я Python-разработчик, создающий масштабируемые веб-приложения с использованием Django, FastAPI и других современных технологий. Увлечен оптимизацией кода и процессов, чтобы ускорять бизнес-решения. Стремлюсь углублять экспертизу в проектировании надежных backend-систем и делиться знаниями с командой. Для профессионального роста изучаю документацию, блоги Real Python и TestDriven.io и Хабр, а также решаю алгоритмические задачи.
+Python-разработчик: backend на Django и FastAPI, довожу проекты до рабочего состояния — от расчётов и базы до Docker, CI и деплоя.
 
 - 🌍 **Локация**: Санкт-Петербург, Россия
 - 🎓 **Образование**: Магистр в области автоматизации и информационных технологий
-- 💼 **Позиция**: Backend-разработчик, открыт к удаленной, офисной или гибридной работе (полный день)
-- 🚀 **Интересы**: Backend-разработка, сетевые технологии, автоматизация, DevOps
-- 🏔️ **Fun fact**: В свободное время покоряю вершины в высотном альпинизме, участвую в многодневных мультигонках и фотографирую природу!
+- 💼 **Позиция**: Backend-разработчик, открыт к удалённой, офисной или гибридной работе (полный день)
+- 🚀 **Интересы**: backend-разработка, сетевые технологии, автоматизация, DevOps
+- 🏔️ **Fun fact**: в свободное время хожу в горы, участвую в многодневных мультигонках и рогейнах, фотографирую природу
+
+## 💡 Проекты
+
+### 🧭 [rogaine-planner](https://github.com/Dmkdok/rogaine-planner) — планировщик маршрута рогейна
+
+Офлайн-инструмент: классифицирует растровую карту по цветам ISOM, находит КП (номера распознаёт через OCR), считает поле времени прохождения каждого пикселя для заданной скорости бегуна и решает задачу ориентирования — набрать максимум очков за контрольное время и вернуться на старт, со штрафом за опоздание. CLI и локальный веб-просмотрщик.
+
+**Стек**: Python 3.12, OpenCV, scipy, Tesseract, Docker
+**Цифры**: 137 коммитов, 500+ тестов на pytest, CI на GitHub Actions
+
+### 🌐 [personal-site](https://github.com/Dmkdok/personal-site) — портфолио, фотография, блог
+
+Личный сайт: четыре раздела, которые редактируются прямо со страницы, без отдельной админки. Полнотекстовый поиск с русской морфологией, светлая и тёмная темы, контраст по WCAG 2.2 AA, строгая Content-Security-Policy и ни одного внешнего запроса со страницы.
+
+**Стек**: FastAPI, Jinja2, htmx, PostgreSQL
+**Цифры**: 124 коммита, 298 тестов
+**Живой сайт**: [profile.dmkdok.crazedns.ru](https://profile.dmkdok.crazedns.ru:8443/)
+
+### 🍳 [foodgram](https://github.com/Dmkdok/foodgram) — сервис рецептов
+
+Публикация рецептов с тегами и ингредиентами, избранное, подписки на авторов и список покупок с выгрузкой в `.txt`. Авторизация, CRUD, админ-панель, OpenAPI-схема.
+
+**Стек**: Django REST Framework, React, PostgreSQL, Docker, Nginx, Gunicorn, GitHub Actions
+
+### Ещё
+
+- **[tg-digest](https://github.com/Dmkdok/tg-digest)** — дайджест Telegram-каналов и чатов от личного аккаунта (Telethon): сообщения за сутки, map-reduce-суммаризация через LLM, доставка в Telegram.
+- **[product-factory](https://github.com/Dmkdok/product-factory)** — набор скилов и субагентов для Claude Code: пайплайн от идеи до протестированной сдачи.
+
+## 🎓 Учебные проекты (Яндекс.Практикум)
+
+- **[YaMDb API](https://github.com/Dmkdok/api_yamdb)** — REST API отзывов и рейтингов произведений: DRF, JWT, категории и жанры; командный проект.
+- **[QRKot](https://github.com/Dmkdok/QRkot_spreadsheets)** — благотворительный фонд: целевые проекты, пожертвования с FIFO-распределением, отчёт в Google Sheets; FastAPI, async SQLAlchemy, Alembic.
+- **[Blogicum](https://github.com/Dmkdok/django_sprint4)** — блог на Django: категории, комментарии, отложенные публикации.
+- **[YaCut](https://github.com/Dmkdok/yacut)** — сервис коротких ссылок с веб-формой и REST API: Flask, SQLAlchemy, Alembic, OpenAPI.
+- **[Парсер PEP на Scrapy](https://github.com/Dmkdok/scrapy_parser_pep)** и **[на BeautifulSoup](https://github.com/Dmkdok/bs4_parser_pep)** — номера, названия и статусы PEP в CSV.
+- **[Раскладка](https://github.com/Dmkdok/meal-planner)** — планирование питания в походах: дни и приёмы пищи, расчёт веса, экспорт в Excel; Flask, PostgreSQL.
+- **[Telegram-бот статуса домашних работ](https://github.com/Dmkdok/homework_bot)** — опрос API Практикума каждые 10 минут, уведомления и логирование.
+- **[Yatube API](https://github.com/Dmkdok/api_final_yatube)** — REST API блог-платформы: DRF, SimpleJWT, Djoser.
+- **[Vice Versa](https://github.com/Dmkdok/django_testing)** — покрытие тестами двух Django-приложений: pytest, unittest.
+- Учебные работы: [Taski](https://github.com/Dmkdok/taski), [Taski в Docker](https://github.com/Dmkdok/taski-docker), [The Snake](https://github.com/Dmkdok/the_snake), [Guess Number](https://github.com/Dmkdok/guess_number), [Anfisa](https://github.com/Dmkdok/anfisa1sprint).
+
+Архивные репозитории помечены GitHub как archived: код и история на месте, но развитие в них не ведётся.
 
 ## 🔧 Технологии и инструменты
 
@@ -38,63 +80,13 @@
 ### Инструменты
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-
-## 💡 Проекты
-
-### Foodgram: Сервис рецептов
-**Описание**: Веб‑сервис для публикации и поиска кулинарных рецептов: авторизация, CRUD рецептов, избранное и подписки. Фильтрация по тегам и авторам, список покупок с выгрузкой в .txt; контейнерный деплой (Docker, Nginx), CI/CD — GitHub Actions.  
-**Стек**: Python, Django, DRF, PostgreSQL, React, Docker, Nginx, Gunicorn, GitHub Actions  
-**[Репозиторий на GitHub](https://github.com/Dmkdok/foodgram)**
-
-### QRKot: Благотворительный фонд поддержки котиков
-**Описание**: Приложение для благотворительного фонда: ведение целевых проектов и приём пожертвований с автоматическим FIFO‑распределением по открытым проектам; формирование отчётов о закрытых проектах в Google Sheets и JWT‑аутентификация пользователей. Автодокументация API (Swagger/Redoc).  
-**Стек**: Python, FastAPI, SQLAlchemy(async), SQLite, Alembic, Uvicorn, FastAPI Users(JWT), Aiogoogle  
-**[Репозиторий на GitHub](https://github.com/Dmkdok/QRkot_spreadsheets)**
-
-### YaMDb API
-**Описание**: REST API для сбора отзывов и рейтингов на произведения (книги, фильмы, музыка). Поддерживает регистрацию с подтверждением по email, JWT‑аутентификацию, каталог с категориями/жанрами и фильтрацией, публикацию отзывов с оценками и комментариями.  
-Разработан в команде с другим разработчиком для практики совместной работы.  
-**Стек**: Python, Django REST, JWT, SQLite, ReDoc  
-**[Репозиторий на GitHub](https://github.com/Dmkdok/api_yamdb)**  
-
-### Yatube API
-**Описание**: REST API для блог‑платформы: публикации, комментарии, группы и подписки. Поддерживает JWT‑аутентификацию и пагинацию; документация доступна в ReDoc.  
-**Стек**:  Python, Django, DRF, SimpleJWT, Djoser, SQLite, ReDoc  
-**[Репозиторий на GitHub](https://github.com/Dmkdok/api_final_yatube)**  
-
-### Vice Versa: Коллекция тестов для YaNews и YaNote+
-**Описание**: Два Django‑приложения (новости с комментариями и личные заметки) с акцентом на покрытие автотестами. Тесты на unittest и pytest/pytest‑django проверяют маршруты, контент, бизнес‑логику, права доступа, уникальность/автогенерацию slug и модерацию комментариев.  
-**Стек**: Python, Django, SQLite, Pytest, Unittest  
-**[Репозиторий на GitHub](https://github.com/Dmkdok/django_testing)**  
-
-### Telegram-бот для проверки статуса домашней работы
-**Описание**: Бот автоматически опрашивает API Яндекс.Практикума и уведомляет в Telegram о смене статуса домашних работ. Ведет логи, обрабатывает ошибки и отправляет сервисные уведомления.  
-**Стек**: Python, Telegram Bot API(pyTelegramBotAPI), Requests, Logging  
-**[Репозиторий на GitHub](https://github.com/Dmkdok/homework_bot)**  
-
-### YaCut: Сервис укорачивания ссылок
-**Описание**: Сервис для генерации коротких URL с веб‑формой и REST API: поддерживает пользовательские алиасы, валидацию идентификатора, редиректы и документацию OpenAPI. Полезен для быстрого шаринга ссылок и интеграции во внутренние инструменты.  
-**Стек**: Python, Flask, SQLAlchemy, SQLite, Alembic, Jinja2, OpenAPI  
-**[Репозиторий на GitHub](https://github.com/Dmkdok/yacut)**  
-
-### Парсер документации PEP
-**Описание**: Парсер на Scrapy, который собирает номер, название и статус каждого PEP, сохраняет результаты в CSV и автоматически формирует сводку по статусам (включая Total). Полезен для быстрого обзора и мониторинга изменений в PEP.  
-**Стек**: Python, Scrapy, CSV  
-**[Репозиторий на GitHub](https://github.com/Dmkdok/scrapy_parser_pep)**  
-
-### Blogicum: Персональный блог на Django
-**Описание**: Веб‑приложение для ведения персонального блога: публикация постов с фильтрацией по категориям и комментариями, регистрация и личные страницы. Поддерживаются отложенные публикации и авторское редактирование/удаление; есть кастомные страницы ошибок.  
-**Стек**: Python, Django, SQLite, Django Templates, Bootstrap  
-**[Репозиторий на GitHub](https://github.com/Dmkdok/django_sprint4)**  
+![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🏆 Достижения
+
 - Завершил курс по backend-разработке на Яндекс.Практикуме.
-- Участвовал в стартапе **Tabit** (онлайн-сервис для HR), где занимался рефакторингом и доработкой схем для анализа эмоционального климата, выявления выгорания и отслеживания KPI компании.
+- Участвовал в стартапе **Tabit** (онлайн-сервис для HR): рефакторинг и доработка схем для анализа эмоционального климата, выявления выгорания и отслеживания KPI компании.
 
 ## 📈 Активность
 
@@ -109,8 +101,8 @@
 
 ## 🎯 Цели на 2026 год
 
-- Разработать pet-проект на FastAPI для автоматического планирования раскладки продуктов в походах, с интеграцией PostgreSQL и CI/CD.
-- Внести вклад в Open Source проекты, улучшая код или документацию в популярных Python-репозиториях.
+- Развивать rogaine-planner: устойчивое распознавание КП на реальных сканах и эвристика для 30–80 КП.
+- Довести personal-site до продакшена: деплой, мониторинг, резервные копии.
+- Внести вклад в Open Source: код или документация в популярных Python-проектах.
 - Опубликовать 3+ технические статьи о Python, FastAPI и веб-разработке.
-- Углубить навыки проектирования API и оптимизации баз данных для высоконагруженных систем.
-- Изучить Kubernetes и развернуть приложение для масштабирования, углубляя навыки DevOps.
+- Углубить навыки проектирования API и оптимизации баз данных, изучить Kubernetes.
